@@ -1,7 +1,7 @@
 # Flutter TODO List
 Application for registering tasks
 
-#### Dependences
+#### Dependencies
 * SQLite 
 
 #### Run Application
